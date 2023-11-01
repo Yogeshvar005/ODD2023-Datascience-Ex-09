@@ -18,10 +18,10 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE
-```
+
 Name: Yogeshvar M
 Reg : 212222230180
-
+```python
 import seaborn as sns
 import matplotlib.pyplot as plt
 
